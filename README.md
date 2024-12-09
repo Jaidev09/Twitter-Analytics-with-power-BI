@@ -45,7 +45,7 @@ The Twitter Analytics Dashboard provides an in-depth view of social media intera
   - DAX Calculations  
   - Custom Visualizations  
 - **Key Visuals:**  
-  - Bar Charts, Line Graphs, Slicers, and Tree Maps  
+  - Bar Charts, Pie chart, Slicers, and Drill downs  
 - **Data Processing:**  
   - Power Query Editor for cleaning and transforming data  
 
